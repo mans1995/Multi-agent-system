@@ -1,6 +1,6 @@
 # Multi-agent system
 
-You can launch it using [this file](mas_sim.py).
+You can launch it using [mas_sim.py](mas_sim.py).
 
 This system simulates agents trying to survive by eating in an environment divided in squares where:
 - darker cases contain more food than lighter ones.
