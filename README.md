@@ -12,3 +12,5 @@ Each agent is a disk in one square at a fixed moment in time. Here are the chara
 - purple agents are pregnant agents
 - the size of an agent represent its age
 - agents need to reach a certain age to be able to reproduce
+
+- ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `#1589F0`
