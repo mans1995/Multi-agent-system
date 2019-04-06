@@ -20,4 +20,5 @@ The [configuration file](test.cfg) contains rules about the agents and the envir
 - RA2 : this second rule makes the agents see the cell in their vision which has the biggest food level. But they can only move one step by one step
 - RA3 : this third rule makes the agents move to the cell in their vision which has the best food level. "Best" means as closest as possible to the metabolism of the agent. And if the food level of the cell is close enough and bigger than the metabolism of the agent, then it will move to this cell
 - RA4 : this fourth rule makes the agents move to the cell which has enough food for his metabolism, or to the cell which has the closest food level to his metabolism if there is no cell which has a bigger food level than the meatabolism of the agent. After this, this rule checks the average of the food levels of the agents who are near every cell the agent can move to. This agent will choose a cell which has this average result above the food level of the agent. If it is not possible, the agent will go on the cell with the nearest average result
+
 Note : use the `#` symbol to avoid using a rule during the simulation.
